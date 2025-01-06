@@ -18,5 +18,8 @@
     <ClCompile Include="같은 숫자 싫어.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="과일 장수.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
