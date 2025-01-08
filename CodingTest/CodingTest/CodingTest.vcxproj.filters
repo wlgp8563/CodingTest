@@ -24,5 +24,8 @@
     <ClCompile Include="최소직사각형.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="소수찾기.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
